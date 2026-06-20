@@ -1,23 +1,24 @@
-# Remix-Project
+# 🎮 Remix-Project
 
-Remix is a **Rec Room remake** some people and I are trying to make to revive the Rec Room Community.
+> A fan-made **Rec Room remake** dedicated to reviving and bringing together the classic Rec Room community. 
 
-Owner of the project is **Sponge**.
+⚠️ **Project Status:** The game is currently in early development and **not playable right now**. We are working hard to deliver the best experience for our community!
 
-Music producer is **Leoncustom**.
+---
 
-3D Modeler is **Micro**.
+## 👥 Meet the Team
 
-First scripter (i think) its **Leo** (**NOTE!!: LEO AND LEONCUSTOM ARE A DIFFERENT PERSON**).
+*   👑 **Sponge** - Project Owner & Manager
+*   🎵 **Leoncustom (Me)** - Music Composer, Producer & Designer
+*   📐 **Micro** - 3D Modeler
+*   💻 **Leo** - Lead Scripter & UI Developer *(Note: Leo and Leoncustom are different people!)*
 
-**Project is not playable right now**.
+---
 
-It might take a while to finish the game and make it playable but **we are doing our best to satisfy our small community!!**
+## 📺 Stay Connected
 
-We have a youtube channel called **@RemixTheRealChannel**, moderated by **Sponge** (owner of the project).
+Follow our journey and check out updates on our official YouTube channel:
+👉 **[@RemixTheRealChannel](https://youtube.com)** (Managed by Sponge)
 
-**Leoncustom** (me) is a music composer and designer for the game.
-
-**Micro** is the 3D modeler.
-
-And **Leo** is the scripter who might make the UI and everything work like an actual game.
+---
+*Thank you for supporting our small but passionate community! We are doing our best!* 🚀
